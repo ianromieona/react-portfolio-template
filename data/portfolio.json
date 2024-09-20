@@ -1,1 +1,168 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+    "name": "Ian",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Ian Romie Ona - a",
+    "headerTaglineThree": "Front-End Developer",
+    "headerTaglineFour": " based in Philippines.",
+    "showCursor": true,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/ianromieona"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/ianromieona/"
+        },
+        { "id": "5", "title": "Email", "link": "mailto:ianromie@gmail.com" }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Chaaat.io",
+            "description": "Development",
+            "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://chaaat.io/"
+        },
+        {
+            "id": "2",
+            "title": "Yourpave",
+            "description": "Development",
+            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "3",
+            "title": "Rush.ph",
+            "description": "Development",
+            "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://www.rush.ph/"
+        },
+        {
+            "id": "4",
+            "title": "RealTCT",
+            "description": "Development",
+            "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://realtct.com/"
+        },
+        {
+            "id": "5",
+            "title": "Manila Boat Club",
+            "description": "Development",
+            "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://manila-boat-club.vercel.app/"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Art Direction",
+            "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+        },
+        {
+            "id": "2",
+            "title": "Branding",
+            "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+        },
+        {
+            "id": "3",
+            "title": "Web Design",
+            "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+        },
+        {
+            "id": "4",
+            "title": "3D Design",
+            "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+        }
+    ],
+    "aboutpara": "I'm a software engineer with 10+ years of experience specializing in web development. I have a strong passion for building user-friendly, scalable applications, and I’ve worked extensively with JavaScript frameworks and libraries, particularly React for front-end development and Node.js for server-side development.",
+    "resume": {
+        "tagline": "👋  I'm a software engineer.",
+        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "April 2022 - August 2024",
+                "type": "Full Time",
+                "position": "Full Stack Developer at Chaaat.io",
+                "bullets": "Led the front-end development team, Designed and implemented UI functionalities for a Messaging(using WhatsApp&comma; Line and FB Messenger) and Property Technology platform using ReactJS and Next.js.,Transformed Figma designs into reusable UI components.,Developed a workflow automation UI using Reactflow,Built a REST API with Fastify&comma; Node.js&comma; and MySQL,Designed and created landing pages for clients campaign initiative,Addressed security vulnerabilities and conducted app audits with Lighthouse and Node.,Contributed to live server deployments using Bitbucket Pipelines and AWS Elastic Beanstalk.,Configured AWS Elastic Beanstalk instances and managed domains with Cloudflare.,Integrated third-party platforms including HubSpot&comma; Salesforce&comma; MindBody API&comma; Transloadit&comma; and Stripe.,Monitored performance and usability issues with Sentry and New Relic."
+            },
+            {
+                "id": "2",
+                "dates": "June 2019 - April 2022",
+                "type": "Full Time",
+                "position": "Frontend Developer at Towa Technologies",
+                "bullets": "Led the front-end development team in executing features for each sprint in an Agile environment., Developed UI features for a Property Technology platform using Angular and ReactJS.,Ensured high code quality through regular code reviews and maintenance.,Managed the deployment of new updates to Firebase servers."
+            },
+            {
+                "id": "3",
+                "dates": "September 2018 - July 2019",
+                "type": "Full Time",
+                "position": "Frontend Developer at Infor",
+                "bullets": "Maintained and developed modular components for an ERP system using Angular 6., Coordinated with offshore teams for design&comma; testing&comma; and integration."
+            },
+            {
+                "id": "4",
+                "dates": "May 2016 - September 2018",
+                "type": "Full Time",
+                "position": "Full Stack Developer at Yondu",
+                "bullets": "Led the team and coordinated tasks across multiple projects,Developed consumer and admin portals for a reservation system using Laravel and Vue.js.,Created high-quality UI designs and RESTful APIs.,Integrated payment portals such as GCash and DragonPay.,Managed Linux Ubuntu servers for production deployments."
+            },
+            {
+                "id": "5",
+                "dates": "September 2014 - May 2016",
+                "type": "Full Time",
+                "position": "Full Stack Developer at TagCash",
+                "bullets": "Developed a payment portal and membership platform using PHP/Yii,Built a platform for fiat and cryptocurrency circulation.,Created RESTful APIs for third-party applications."
+            },
+            {
+                "id": "6",
+                "dates": "March 2014 - August 2014",
+                "type": "Full Time",
+                "position": "Full Stack Developer at Philkraft",
+                "bullets": "Developed a high-performance website showcasing company services using Laravel and jQuery."
+            },
+            {
+                "id": "7",
+                "dates": "May 2012 - March 2014",
+                "type": "Full Time",
+                "position": "Full Stack Developer at Zeresoft",
+                "bullets": "Developed a payment website portal using PHP and JavaScript.,Created a RESTful API for third-party consumer data."
+            }
+        ],
+        "education": {
+            "universityName": "Lipa City Colleges",
+            "universityDate": "2008-2012",
+            "universityPara": "Bachelor of Science in Computer Science"
+        },
+        "languages": ["Javascript", "HTML5", "CSS", "PHP", "MySQL", "MongoDB"],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs",
+            "Fastify",
+            "VueJs",
+            "NextJs",
+            "Laravel",
+            "TailwindCSS",
+            "Redux"
+        ],
+        "others": [
+            "RESTful APIs",
+            "AWS",
+            "Git",
+            "Jira",
+            "Agile Development",
+            "Sentry",
+            "New Relic",
+            "Cloudflare",
+            "Stripe",
+            "Figma"
+        ]
+    }
+}
